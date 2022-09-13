@@ -1,0 +1,3 @@
+Symlinking /home/experiment/catkin_ws/devel/lib/pkgconfig/flight_test.pc
+Symlinking /home/experiment/catkin_ws/devel/share/flight_test/cmake/flight_testConfig-version.cmake
+Symlinking /home/experiment/catkin_ws/devel/share/flight_test/cmake/flight_testConfig.cmake
